@@ -7,7 +7,7 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBH23Csayr4pqH3VEY_iyyM02ET82awuaQ",
+    apiKey: "",
     authDomain: "crud-vezba.firebaseapp.com",
     projectId: "crud-vezba",
     storageBucket: "crud-vezba.appspot.com",
