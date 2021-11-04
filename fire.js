@@ -12,7 +12,7 @@ const firebaseConfig = {
     projectId: "crud-vezba",
     storageBucket: "crud-vezba.appspot.com",
     messagingSenderId: "73226235424",
-    appId: "1:73226235424:web:3cd9657800054438119645"
+    appId: ""
   };
   
   // Initialize Firebase
